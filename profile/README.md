@@ -7,7 +7,7 @@
 </h1>
 
 <h3 align="center"><em>
-Ragdata's Modular Bash Library
+The Modular Bash Library by RedEyed Software
 </em></h3>
 
 <h3 align="center">
