@@ -12,7 +12,7 @@ Looking for support for one of my projects?  Here are some suggestions:
 
 > #### 👉 If this is your first time participating in one of my communities, please read and adhere to the [code of conduct][coc].  By interacting with any of my repositories or communities, you agree to abide by these terms.
 
-If you have any questions, most repositories have `Discussions`
+If you have any questions, join the [`Discord Server`][discord]
 
 > **Give yourself the best chance of getting the help you need!  Spend a little time framing your question and adding links and resources.  Spending a little extra time up-front can save everyone time (and frustration) in the long-run.  Here are a few tips:**
 
@@ -38,9 +38,8 @@ If you have any questions, most repositories have `Discussions`
 
 - [Discord Server][discord]
 
-
 - Check my repositories:
-	- [Ragdata @ GitHub][github]
+	- [Bash Bits @ GitHub][github]
 - Check my social media accounts:
 	- [Ragdata @ Ko-Fi][ko-fi]
 	- [@RedeyedSoftware on Twitter][twitter]
@@ -68,7 +67,7 @@ If you have any questions, most repositories have `Discussions`
 [twitter]: https://twitter.com/RedeyedSoftware
 [reddit]: https://reddit.com/redeyedrpg
 [facebook]: https://facebook.com/redeyedrpg
-[github]: https://github.com/ragdata
+[github]: https://github.com/bash-bits
 [github-ragdata]: https://github.com/ragdata
 [github-redeyed]: https://github.com/redeyed-rpg
 [github-aevernet]: https://github.com/aevernet
