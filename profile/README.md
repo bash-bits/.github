@@ -17,11 +17,3 @@ Ragdata's Modular Bash Library
 🔸
 <a href="https://github.com/bash-bits/bash-bits/releases" target="_blank">Releases</a>
 </h3>
-
-<br />
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/6827931/226095520-41c44432-4e1c-42f9-b505-700fc06644ed.png" alt="Star - Helped">
-<br />
-<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/bash-bits/bash-bits?style=social">
-</p>
