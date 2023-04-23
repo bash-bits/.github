@@ -44,7 +44,7 @@ Please report bugs discovered in any third-party modules to the person or team m
 <h4 align="center">
 <a href="https://github.com/bash-bits/bash-bits/issues">Please report low-level bugs using the Issue Tracker</a>
 <br><br>
-<a href="mailto:security@ragdata.dev?subject=Bash%20Bits%20Security%20Report">For more serious issues, please report via email to security@ragdata.dev</a>
+<a href="https://github.com/bash-bits/bash-bits/security/advisories/new">For more serious issues, please submit a Security Advisory</a>
 </h4>
 
 ## 📃 [Disclosure Policy](#toc)
