@@ -1,6 +1,6 @@
 # Pull Request
 
-> 👉 This file is included by default with all Bash Bits repositories by virtue of its inclusion in the [`.github`](https://github.com/ragdata/.github) repository, which defines defaults for all other repositories under an organisation.
+> 👉 This file is included by default with all Bash Bits repositories by virtue of its inclusion in the [`.github`](https://github.com/bash-bits/.github) repository, which defines defaults for all other repositories under an organisation.
 >
 > `Pull Request Template v-1.0.0`
 

@@ -1,6 +1,6 @@
 # 🔐 [BASH-BITS SECURITY POLICY](#toc)
 
-> 👉 This file is included by default with all Bash Bits repositories by virtue of its inclusion in the [`.github`](https://github.com/ragdata/.github) repository, which defines defaults for all other repositories under an organisation.
+> 👉 This file is included by default with all Bash Bits repositories by virtue of its inclusion in the [`.github`](https://github.com/bash-bits/.github) repository, which defines defaults for all other repositories under an organisation.
 >
 > `Bash Bits Security Policy v-1.0.0`
 
@@ -9,7 +9,7 @@
 <details>
 <summary><a name="toc" href="#toc"><h2>📖 Index / Table of Contents</h2></a></summary>
 
-- [SECURITY POLICIES](#-security-policy)
+- [SECURITY POLICIES](#-bash-bits-security-policy)
 	- [Supported Versions](#supported-versions)
 	- [Reporting an Issue](#-reporting-an-issue)
 	- [Disclosure Policy](#-disclosure-policy)
