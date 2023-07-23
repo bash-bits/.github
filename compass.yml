@@ -1,0 +1,16 @@
+name: .github
+id: ari:cloud:compass:7fed6312-9ad2-42cc-a333-97590773353a:component/358d1822-e9eb-4e7d-9562-e1be020f8ca3/794784cc-c26a-4e39-9974-2889aa755a0e
+description: 🚧 Organisation Profile Repo
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/bash-bits/.github
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
