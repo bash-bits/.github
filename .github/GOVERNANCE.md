@@ -1,10 +1,10 @@
 # ⚖️ [Project Governance](#-toc)
 
-> 👉 This file is included by default with all RedEyed repositories by virtue of its inclusion in the [`.github`](https://github.com/redeyed-au/.github) repository, which defines defaults for all other repositories under an organization.
+> 👉 This file is included by default with all Bash-Bits repositories by virtue of its inclusion in the [`.github`](https://github.com/bash-bits/.github) repository, which defines defaults for all other repositories under an organization.
 >
-> `RedEyed Governance Policy v-1.0.0`
+> `Bash-Bits Governance Policy v-1.0.0`
 
-This document outlines the governance model for all RedEyed Technologies projects.  This includes descriptions of different roles, nomination processes, code review processes, and Code of Conduct enforcement.
+This document outlines the governance model for all Bash-Bits projects.  This includes descriptions of different roles, nomination processes, code review processes, and Code of Conduct enforcement.
 
 #### 👉 ALL community members must abide by the [Code of Conduct][conduct]
 #### 👉 Please review the [Community Support Document][support] BEFORE posting
@@ -41,9 +41,9 @@ This document outlines the governance model for all RedEyed Technologies project
 
 # 💪 [Getting Involved](#-toc)
 
-**ALL types of contribution are meaningful!**  Anyone can become a contributor to a RedEyed project (yes, even you!)  Your contribution could be in the way of providing bugfixes, providing regular Discord activity, or even by posting about the project in your personal blog.  No contribution is too small!
+**ALL types of contribution are meaningful!**  Anyone can become a contributor to a Bash-Bits project (yes, even you!)  Your contribution could be in the way of providing bugfixes, providing regular Discord activity, or even by posting about the project in your personal blog.  No contribution is too small!
 
-We aim to recognize ALL contributors to our projects, and use the [All-Contributors][all-contrib] bot to help capture and record contributions.  See the [RedEyed Contributor's Guide][contribute] for more information.
+We aim to recognize ALL contributors to our projects, and use the [All-Contributors][all-contrib] bot to help capture and record contributions.  See the [Bash-Bits Contributor's Guide][contribute] for more information.
 
 [`^ Top`](#-toc)
 
@@ -144,7 +144,7 @@ The role of **_Maintainer_** is critical to the long-term health of a project.  
 
 - All the responsibilities of the `@maintainer` role, plus
 - Expected to take ownership over specific part(s) of the project
-- Expected to contribute to the long-term health and success of RedEyed Technologies
+- Expected to contribute to the long-term health and success of Bash-Bits
 - Expected to be a role-model and leader for other maintainers and community members
 
 #### Nomination:
@@ -164,7 +164,7 @@ A **_Consulting Staff Member_** is a special role which is limited in the follow
 - No ability to nominate
 - May be revoked at any time by the Project Head
 
-**_Consulting Staff Members_** are usually brought in to work on or contribute to a specific part of a RedEyed project, often as a paid contractor.
+**_Consulting Staff Members_** are usually brought in to work on or contribute to a specific part of a Bash-Bits project, often as a paid contractor.
 
 A Consulting Staff Member may become a Project Staff Member through the usual nomination and voting procedures.
 
@@ -174,7 +174,7 @@ A Consulting Staff Member may become a Project Staff Member through the usual no
 
 The **_Project Head_** or **_Technocrat_** role is usually only held by a single person in any project, but may be granted to multiple people on larger projects or under special circumstances.
 
-This role is usually an administrative one.  The Project Head or Technocrat is the Project Manager, and is responsible for the overall direction, growth and long-term success of a RedEyed project. 
+This role is usually an administrative one.  The Project Head or Technocrat is the Project Manager, and is responsible for the overall direction, growth and long-term success of a Bash-Bits project. 
 
 The Project Head or Technocrat controls and maintains any sensitive project assets, assists in resolving conflicts, and acts as the tiebreaker in the event of deadlocked initiatives.
 
@@ -215,7 +215,7 @@ In all instances, executive power rests with Ragdata - the proprietor of RedEyed
 
 ## ⭐ [Additional Roles](#-toc)
 
-In addition to the Contributor roles described above, there are additional roles and teams that community members and contributors are welcome to join.  These roles are generally used to organize members around different requirements and initiatives across the RedEyed Technologies Community:
+In addition to the Contributor roles described above, there are additional roles and teams that community members and contributors are welcome to join.  These roles are generally used to organize members around different requirements and initiatives across the Bash-Bits Community:
 
 [`^ Top`](#-toc)
 
@@ -228,7 +228,7 @@ For example, the following project teams are usually founded within projects as 
 - `@support-squad` are responsible for providing technical support for a project
 - `@comms-team` are responsible for a project's marketing efforts - such as maintaining websites, blogs, and designing email campaigns
 
-As projects evolve and these teams form within them, you'll be able to join them by posting an application in the appropriate team forum on Discord.  Getting involved with a team is a great way to start contributing to a RedEyed project!
+As projects evolve and these teams form within them, you'll be able to join them by posting an application in the appropriate team forum on Discord.  Getting involved with a team is a great way to start contributing to a Bash-Bits project!
 
 [`^ Top`](#-toc)
 
@@ -252,13 +252,13 @@ Trivial tasks (like removing spam) can be acted upon unilaterally by a Moderator
 
 ### 🚧 [Technical Steering Committee (TSC)](#-toc)
 
-The TSC is a special role available to Project Staff Members (L1+).  TSC members are responsible for the growth and maintenance of RedEyed projects.
+The TSC is a special role available to Project Staff Members (L1+).  TSC members are responsible for the growth and maintenance of Bash-Bits projects.
 
-TSC members are the guardians over the codebases of RedEyed projects.  It is their duty to ensure code quality, enforce coding standards, correctness, and security.
+TSC members are the guardians over the codebases of Bash-Bits projects.  It is their duty to ensure code quality, enforce coding standards, correctness, and security.
 
 A TSC member guides the direction of a project, and ensures the health of a project's codebase into the future.  TSC members are ultimately responsible for technical decision making when it comes to any changes or additions to a project's codebase.
 
-TSC members have significant sway in software design decisions.  For this reason, coding experience is _essential_ for this role.  TSC membership is one of the few roles which requires a significant contribution history of code to a RedEyed project on GitHub.
+TSC members have significant sway in software design decisions.  For this reason, coding experience is _essential_ for this role.  TSC membership is one of the few roles which requires a significant contribution history of code to a Bash-Bits project on GitHub.
 
 #### Privileges:
 
@@ -317,9 +317,9 @@ Contributor roles are granted for as long as a person wishes to engage with a pr
 
 **_Alumni_** is a special designation and role for any person who was once an active Maintainer (L2+) but is now no longer actively involved with a project.  By retiring and joining the Alumni, you trade in your current set of roles, privileges, and responsibilities for a new, special Alumni role which comes with its own set of privileges (as described above).
 
-As a Maintainer (L2+), you can retire your role at any time by getting in touch with the Project Head or Technocrat and requesting Alumni status.  You can initiate this action yourself if you know ahead of time that you need to step away from the project.  Or, if you have gone several months without interacting with the RedEyed community, a Project Head or the Technocrat may actively reach out to you to discuss retiring as a way to make room for new contributors.
+As a Maintainer (L2+), you can retire your role at any time by getting in touch with the Project Head or Technocrat and requesting Alumni status.  You can initiate this action yourself if you know ahead of time that you need to step away from the project.  Or, if you have gone several months without interacting with the Bash-Bits community, a Project Head or the Technocrat may actively reach out to you to discuss retiring as a way to make room for new contributors.
 
-As an Alumni member, you are still a valued part of the RedEyed community and are welcome to continue to be a part of our discussions on Discord, GitHub, or anywhere else.  You may also request to have your old roles reinstated at any time through the normal nomination and voting process for that role.
+As an Alumni member, you are still a valued part of the Bash-Bits community and are welcome to continue to be a part of our discussions on Discord, GitHub, or anywhere else.  You may also request to have your old roles reinstated at any time through the normal nomination and voting process for that role.
 
 Rejoining a project as a contributor (L3+) will automatically remove you from the Alumni role.
 
@@ -385,11 +385,11 @@ Core Staff Members should take the opinions of Maintainers into consideration wh
 
 ### 📑 [Voting :: RFC Proposals](#-toc)
 
-RedEyed project features are discussed using a model called [consensus seeking decision making](https://en.wikipedia.org/wiki/Consensus-seeking_decision-making).  This model attempts to achieve consensus on all significant changes to RedEyed projects, but has a fallback voting procedure in place if consensus appears unattainable.
+Bash-Bits project features are discussed using a model called [consensus seeking decision making](https://en.wikipedia.org/wiki/Consensus-seeking_decision-making).  This model attempts to achieve consensus on all significant changes to Bash-Bits projects, but has a fallback voting procedure in place if consensus appears unattainable.
 
 **WHO CAN VOTE:** All [TSC](#-technical-steering-committee--tsc-) Members
 
-1. Anyone can submit an RFC to suggest changes to a RedEyed project
+1. Anyone can submit an RFC to suggest changes to a Bash-Bits project
 2. A trivial change may be discussed and approved entirely within the RFC GitHub Issue, provided there are no objections from Core Staff or TSC members.  This is not considered a formal vote.
 3. A non-trivial, significant change should be discussed within the RFC and approved during an RFC meeting call.  In some cases, an RFC may be approved outside of an RFC meeting using Pull Request reviews as a proxy for votes.
 4. During an RFC meeting, the person leading the call will attempt to achieve consensus on the RFC proposal.
@@ -463,7 +463,7 @@ Inspired by [Astro](https://github.com/withastro/.github/blob/main/GOVERNANCE.md
 [//]: # (If a project is funded &#40;through sponsorship or otherwise&#41;, Maintainers may be eligible for a regular stipend to compensate them for their efforts.)
 
 [all-contrib]: https://allcontributors.org
-[conduct]: https://github.com/redeyed-au/.github/blob/master/.github/CODE_OF_CONDUCT.md
-[contribute]: https://github.com/redeyed-au/.github/blob/master/.github/CONTRIBUTING.md
-[support]: https://github.com/redeyed-au/.github/blob/master/.github/SUPPORT.md
-[security]: https://github.com/redeyed-au/.github/blob/master/.github/SECURITY.md
+[conduct]: https://github.com/bash-bits/.github/blob/master/.github/CODE_OF_CONDUCT.md
+[contribute]: https://github.com/bash-bits/.github/blob/master/.github/CONTRIBUTING.md
+[support]: https://github.com/bash-bits/.github/blob/master/.github/SUPPORT.md
+[security]: https://github.com/bash-bits/.github/blob/master/.github/SECURITY.md
