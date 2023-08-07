@@ -21,17 +21,24 @@ Projects requiring only a single repo each - anything larger gets split out into
 </td>
 </tr>
 <tr>
-<td width="70" align="center"><a href="https://github.com/bash-bits"><img alt="Bash-Bits" height="64" src="https://raw.githubusercontent.com/ragdata/media/master/project/bash-bits/logo/BB-Logo-64-Full.svg" /></a></td>
+<td width="70" align="center"><a href="https://github.com/redeyed-au"><img alt="RedEyed Technologies" height="64" src="https://raw.githubusercontent.com/Ragdata/media/master/project/redeyed-au/logo/Shield.svg" /></a></td>
 <td>
-<a href="https://github.com/bash-bits"><strong>Bash-Bits Project Profile</strong></a><br />
-The Modular Bash Library by RedEyed Software - start with <a href="https://github.com/bash-bits/bb-import">BB-Import</a> and import only what you need, from anywhere!
+<a href="https://github.com/ragdata"><strong>RedEyed Technologies</strong></a><br />
+RedEyed Technologies is an IT Consultancy firm which specializes in cloud, container, and open-source technologies.
 </td>
 </tr>
 <tr>
 <td width="70" align="center"><a href="https://github.com/ragsworks"><img alt="RagsWorks" height="64" src="https://raw.githubusercontent.com/ragdata/media/master/project/ragsworks/logo/ragsworks.svg" /></a></td>
 <td>
-<a href="https://github.com/ragsworks"><strong>RagsWorks Project Profile</strong></a><br />
+<a href="https://github.com/ragsworks"><strong>RagsWorks Project</strong></a><br />
 Reusable Actions &amp; Workflows by Ragdata - also includes a repository full of <a href="https://github.com/ragsworks/devcontainers">DevContainers</a> with various environments.
+</td>
+</tr>
+<tr>
+<td width="70" align="center"><a href="https://github.com/bash-bits"><img alt="Bash-Bits" height="64" src="https://raw.githubusercontent.com/ragdata/media/master/project/bash-bits/logo/BB-Logo-64-Full.svg" /></a></td>
+<td>
+<a href="https://github.com/bash-bits"><strong>Bash-Bits Project</strong></a><br />
+The Modular Bash Library by RedEyed Software - start with <a href="https://github.com/bash-bits/bb-import">BB-Import</a> and import only what you need, from anywhere!
 </td>
 </tr>
 </table>
