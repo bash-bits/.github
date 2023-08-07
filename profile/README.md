@@ -35,7 +35,7 @@ Reusable Actions &amp; Workflows by Ragdata - also includes a repository full of
 </td>
 </tr>
 <tr>
-<td width="70" align="center"><a href="https://github.com/bash-bits"><img alt="Bash-Bits" height="64" src="https://raw.githubusercontent.com/ragdata/media/master/project/bash-bits/logo/BB-Logo-64-Full.svg" /></a></td>
+<td width="70" align="center"><a href="https://github.com/bash-bits"><img alt="Bash-Bits" height="64" src="https://raw.githubusercontent.com/ragdata/media/master/project/bash-bits/logo/BB-Logo-Full.svg" /></a></td>
 <td>
 <a href="https://github.com/bash-bits"><strong>Bash-Bits Project</strong></a><br />
 The Modular Bash Library by RedEyed Software - start with <a href="https://github.com/bash-bits/bb-import">BB-Import</a> and import only what you need, from anywhere!
