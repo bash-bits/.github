@@ -41,8 +41,6 @@ If you like this repository, please give it a ⭐ (it really does help)
 <details>
 <summary><h2><a name="toc">📖 Table of Contents</a></h2></summary>
 
-## 📖 Table of Contents
-
 - [Project Overview](#-project-overview)
 	- [Branch Reliability](#branch-reliability)
 - [What's Included?](#-whats-included)
@@ -57,7 +55,7 @@ If you like this repository, please give it a ⭐ (it really does help)
 
 </details>
 
-## ⭐ [Project Overview](#-table-of-contents)
+## ⭐ [Project Overview](#toc)
 
 > ⚠️ This is a specially-named repository which GitHub treats differently to other repositories. [**FIND OUT MORE**](https://www.freecodecamp.org/news/how-to-use-the-dot-github-repository/)
 
